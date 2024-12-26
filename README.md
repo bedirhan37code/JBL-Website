@@ -4,7 +4,7 @@ Her detayında profesyonellik ve gerçek dünya projelerine uygun bir yaklaşım
 
 # 💡 Kullandığım Teknolojiler
 - Html
-- Css ve Sccs
+- Css ve Scss
 
 # Ekran Görüntüsü
 
